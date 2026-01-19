@@ -81,4 +81,3 @@ if model_loaded:
                     st.progress(float(prob))
     else:
         st.info("Please upload an image to get started!")
-
